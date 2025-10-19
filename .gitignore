@@ -1,0 +1,56 @@
+# Build outputs
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.docstates
+
+# NuGet packages
+*.nupkg
+*.snupkg
+nupkg/
+
+# Visual Studio files
+.vs/
+*.vscode/
+.vscode/
+
+# Dependencies
+node_modules/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+# JetBrains IDEs
+.idea/
+
+# Temporary folders
+tmp/
+temp/
